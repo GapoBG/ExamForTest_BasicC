@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.28.VIII\Profit\bin\Debug\Profit.exe.config
+D:\Gapo\Test_I\Exam.28.VIII\Profit\bin\Debug\Profit.exe
+D:\Gapo\Test_I\Exam.28.VIII\Profit\bin\Debug\Profit.pdb
+D:\Gapo\Test_I\Exam.28.VIII\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.28.VIII\Profit\obj\Debug\Profit.exe
+D:\Gapo\Test_I\Exam.28.VIII\Profit\obj\Debug\Profit.pdb

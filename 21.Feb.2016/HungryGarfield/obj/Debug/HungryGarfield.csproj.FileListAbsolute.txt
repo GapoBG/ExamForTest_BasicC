@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\21.Feb.2016\HungryGarfield\bin\Debug\HungryGarfield.exe.config
+D:\Gapo\Test_I\21.Feb.2016\HungryGarfield\bin\Debug\HungryGarfield.exe
+D:\Gapo\Test_I\21.Feb.2016\HungryGarfield\bin\Debug\HungryGarfield.pdb
+D:\Gapo\Test_I\21.Feb.2016\HungryGarfield\obj\Debug\HungryGarfield.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\21.Feb.2016\HungryGarfield\obj\Debug\HungryGarfield.exe
+D:\Gapo\Test_I\21.Feb.2016\HungryGarfield\obj\Debug\HungryGarfield.pdb

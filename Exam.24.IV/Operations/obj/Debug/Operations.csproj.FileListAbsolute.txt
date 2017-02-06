@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.24.IV\Operations\bin\Debug\Operations.exe.config
+D:\Gapo\Test_I\Exam.24.IV\Operations\bin\Debug\Operations.exe
+D:\Gapo\Test_I\Exam.24.IV\Operations\bin\Debug\Operations.pdb
+D:\Gapo\Test_I\Exam.24.IV\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.24.IV\Operations\obj\Debug\Operations.exe
+D:\Gapo\Test_I\Exam.24.IV\Operations\obj\Debug\Operations.pdb

@@ -1,0 +1,9 @@
+D:\Gapo\Test_I\Exam\TrainingLab\PriceTransport\bin\Debug\PriceTransport.exe.config
+D:\Gapo\Test_I\Exam\TrainingLab\PriceTransport\bin\Debug\PriceTransport.exe
+D:\Gapo\Test_I\Exam\TrainingLab\PriceTransport\bin\Debug\PriceTransport.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\PriceTransport\obj\Debug\PriceTransport.exe
+D:\Gapo\Test_I\Exam\TrainingLab\PriceTransport\obj\Debug\PriceTransport.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\PriceTransport\obj\Debug\PriceTransport.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\PriceTransport\bin\Debug\PriceTransport.exe.config
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\PriceTransport\obj\Debug\PriceTransport.exe
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\PriceTransport\obj\Debug\PriceTransport.pdb

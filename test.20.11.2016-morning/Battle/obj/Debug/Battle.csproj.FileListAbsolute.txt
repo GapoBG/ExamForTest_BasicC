@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-morning\Battle\bin\Debug\Battle.exe.config
+D:\Gapo\Test_I\test.20.11.2016-morning\Battle\bin\Debug\Battle.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Battle\bin\Debug\Battle.pdb
+D:\Gapo\Test_I\test.20.11.2016-morning\Battle\obj\Debug\Battle.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-morning\Battle\obj\Debug\Battle.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Battle\obj\Debug\Battle.pdb

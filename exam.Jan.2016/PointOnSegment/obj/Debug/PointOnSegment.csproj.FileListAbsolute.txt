@@ -1,0 +1,5 @@
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnSegment\bin\Debug\PointOnSegment.exe.config
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnSegment\bin\Debug\PointOnSegment.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnSegment\bin\Debug\PointOnSegment.pdb
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnSegment\obj\Debug\PointOnSegment.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnSegment\obj\Debug\PointOnSegment.pdb

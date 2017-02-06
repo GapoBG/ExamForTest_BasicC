@@ -1,0 +1,9 @@
+D:\Gapo\Test_I\test.20.11.2016\FishBorsa\bin\Debug\FishBorsa.exe.config
+D:\Gapo\Test_I\test.20.11.2016\FishBorsa\bin\Debug\FishBorsa.exe
+D:\Gapo\Test_I\test.20.11.2016\FishBorsa\bin\Debug\FishBorsa.pdb
+D:\Gapo\Test_I\test.20.11.2016\FishBorsa\obj\Debug\FishBorsa.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016\FishBorsa\obj\Debug\FishBorsa.exe
+D:\Gapo\Test_I\test.20.11.2016\FishBorsa\obj\Debug\FishBorsa.pdb
+D:\Gapo\Test_I\test.20.11.2016-morning\FishBorsa\bin\Debug\FishBorsa.exe.config
+D:\Gapo\Test_I\test.20.11.2016-morning\FishBorsa\obj\Debug\FishBorsa.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\FishBorsa\obj\Debug\FishBorsa.pdb

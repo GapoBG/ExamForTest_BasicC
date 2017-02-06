@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.18.12.2016\Grades\bin\Debug\Grades.exe.config
+D:\Gapo\Test_I\exam.18.12.2016\Grades\bin\Debug\Grades.exe
+D:\Gapo\Test_I\exam.18.12.2016\Grades\bin\Debug\Grades.pdb
+D:\Gapo\Test_I\exam.18.12.2016\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.18.12.2016\Grades\obj\Debug\Grades.exe
+D:\Gapo\Test_I\exam.18.12.2016\Grades\obj\Debug\Grades.pdb

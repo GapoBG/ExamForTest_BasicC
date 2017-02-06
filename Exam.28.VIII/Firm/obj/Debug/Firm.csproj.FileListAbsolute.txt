@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.28.VIII\Firm\bin\Debug\Firm.exe.config
+D:\Gapo\Test_I\Exam.28.VIII\Firm\bin\Debug\Firm.exe
+D:\Gapo\Test_I\Exam.28.VIII\Firm\bin\Debug\Firm.pdb
+D:\Gapo\Test_I\Exam.28.VIII\Firm\obj\Debug\Firm.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.28.VIII\Firm\obj\Debug\Firm.exe
+D:\Gapo\Test_I\Exam.28.VIII\Firm\obj\Debug\Firm.pdb

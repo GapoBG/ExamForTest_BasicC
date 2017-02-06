@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-morning\Pets\bin\Debug\Pets.exe.config
+D:\Gapo\Test_I\test.20.11.2016-morning\Pets\bin\Debug\Pets.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Pets\bin\Debug\Pets.pdb
+D:\Gapo\Test_I\test.20.11.2016-morning\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-morning\Pets\obj\Debug\Pets.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Pets\obj\Debug\Pets.pdb

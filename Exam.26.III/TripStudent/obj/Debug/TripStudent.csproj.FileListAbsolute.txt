@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.26.III\TripStudent\bin\Debug\TripStudent.exe.config
+D:\Gapo\Test_I\Exam.26.III\TripStudent\bin\Debug\TripStudent.exe
+D:\Gapo\Test_I\Exam.26.III\TripStudent\bin\Debug\TripStudent.pdb
+D:\Gapo\Test_I\Exam.26.III\TripStudent\obj\Debug\TripStudent.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.26.III\TripStudent\obj\Debug\TripStudent.exe
+D:\Gapo\Test_I\Exam.26.III\TripStudent\obj\Debug\TripStudent.pdb

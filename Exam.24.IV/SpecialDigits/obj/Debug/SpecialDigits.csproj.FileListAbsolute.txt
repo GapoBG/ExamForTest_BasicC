@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.24.IV\SpecialDigits\bin\Debug\SpecialDigits.exe.config
+D:\Gapo\Test_I\Exam.24.IV\SpecialDigits\bin\Debug\SpecialDigits.exe
+D:\Gapo\Test_I\Exam.24.IV\SpecialDigits\bin\Debug\SpecialDigits.pdb
+D:\Gapo\Test_I\Exam.24.IV\SpecialDigits\obj\Debug\SpecialDigits.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.24.IV\SpecialDigits\obj\Debug\SpecialDigits.exe
+D:\Gapo\Test_I\Exam.24.IV\SpecialDigits\obj\Debug\SpecialDigits.pdb

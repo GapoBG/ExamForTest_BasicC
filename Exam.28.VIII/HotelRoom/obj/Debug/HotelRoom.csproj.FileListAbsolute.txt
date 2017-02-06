@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.28.VIII\HotelRoom\bin\Debug\HotelRoom.exe.config
+D:\Gapo\Test_I\Exam.28.VIII\HotelRoom\bin\Debug\HotelRoom.exe
+D:\Gapo\Test_I\Exam.28.VIII\HotelRoom\bin\Debug\HotelRoom.pdb
+D:\Gapo\Test_I\Exam.28.VIII\HotelRoom\obj\Debug\HotelRoom.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.28.VIII\HotelRoom\obj\Debug\HotelRoom.exe
+D:\Gapo\Test_I\Exam.28.VIII\HotelRoom\obj\Debug\HotelRoom.pdb

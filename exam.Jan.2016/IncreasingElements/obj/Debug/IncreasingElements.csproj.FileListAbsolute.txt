@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.Jan.2016\IncreasingElements\bin\Debug\IncreasingElements.exe.config
+D:\Gapo\Test_I\exam.Jan.2016\IncreasingElements\bin\Debug\IncreasingElements.exe
+D:\Gapo\Test_I\exam.Jan.2016\IncreasingElements\bin\Debug\IncreasingElements.pdb
+D:\Gapo\Test_I\exam.Jan.2016\IncreasingElements\obj\Debug\IncreasingElements.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.Jan.2016\IncreasingElements\obj\Debug\IncreasingElements.exe
+D:\Gapo\Test_I\exam.Jan.2016\IncreasingElements\obj\Debug\IncreasingElements.pdb

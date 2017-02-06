@@ -1,0 +1,12 @@
+D:\Gapo\Test_I\Exam\TrainingLab\StupidPaswordGEN\bin\Debug\StupidPaswordGEN.exe.config
+D:\Gapo\Test_I\Exam\TrainingLab\StupidPaswordGEN\bin\Debug\StupidPaswordGEN.exe
+D:\Gapo\Test_I\Exam\TrainingLab\StupidPaswordGEN\bin\Debug\StupidPaswordGEN.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\StupidPaswordGEN\obj\Debug\StupidPaswordGEN.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam\TrainingLab\StupidPaswordGEN\obj\Debug\StupidPaswordGEN.exe
+D:\Gapo\Test_I\Exam\TrainingLab\StupidPaswordGEN\obj\Debug\StupidPaswordGEN.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\StupidPaswordGEN\bin\Debug\StupidPaswordGEN.exe.config
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\StupidPaswordGEN\obj\Debug\StupidPaswordGEN.exe
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\StupidPaswordGEN\obj\Debug\StupidPaswordGEN.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\StupidPaswordGEN\bin\Debug\StupidPaswordGEN.exe
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\StupidPaswordGEN\bin\Debug\StupidPaswordGEN.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\StupidPaswordGEN\obj\Debug\StupidPaswordGEN.csprojResolveAssemblyReference.cache

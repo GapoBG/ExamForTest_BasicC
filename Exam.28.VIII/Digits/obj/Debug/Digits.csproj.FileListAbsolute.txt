@@ -1,0 +1,5 @@
+D:\Gapo\Test_I\Exam.28.VIII\Digits\bin\Debug\Digits.exe.config
+D:\Gapo\Test_I\Exam.28.VIII\Digits\bin\Debug\Digits.exe
+D:\Gapo\Test_I\Exam.28.VIII\Digits\bin\Debug\Digits.pdb
+D:\Gapo\Test_I\Exam.28.VIII\Digits\obj\Debug\Digits.exe
+D:\Gapo\Test_I\Exam.28.VIII\Digits\obj\Debug\Digits.pdb

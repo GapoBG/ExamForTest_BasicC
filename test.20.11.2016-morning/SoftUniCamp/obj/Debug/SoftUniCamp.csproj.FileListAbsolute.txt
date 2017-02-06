@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-morning\SoftUniCamp\bin\Debug\SoftUniCamp.exe.config
+D:\Gapo\Test_I\test.20.11.2016-morning\SoftUniCamp\bin\Debug\SoftUniCamp.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\SoftUniCamp\bin\Debug\SoftUniCamp.pdb
+D:\Gapo\Test_I\test.20.11.2016-morning\SoftUniCamp\obj\Debug\SoftUniCamp.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-morning\SoftUniCamp\obj\Debug\SoftUniCamp.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\SoftUniCamp\obj\Debug\SoftUniCamp.pdb

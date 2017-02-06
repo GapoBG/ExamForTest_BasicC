@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\bin\Debug\VegetableMarket.exe.config
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\bin\Debug\VegetableMarket.exe
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\bin\Debug\VegetableMarket.pdb
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\obj\Debug\VegetableMarket.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\obj\Debug\VegetableMarket.exe
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\obj\Debug\VegetableMarket.pdb

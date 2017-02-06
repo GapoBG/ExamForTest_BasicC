@@ -1,0 +1,6 @@
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Bricks\bin\Debug\Bricks.exe.config
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Bricks\bin\Debug\Bricks.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Bricks\bin\Debug\Bricks.pdb
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Bricks\obj\Debug\Bricks.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Bricks\obj\Debug\Bricks.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Bricks\obj\Debug\Bricks.pdb

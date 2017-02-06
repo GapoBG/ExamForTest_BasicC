@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.18.12.2016\Distance\bin\Debug\Distance.exe.config
+D:\Gapo\Test_I\exam.18.12.2016\Distance\bin\Debug\Distance.exe
+D:\Gapo\Test_I\exam.18.12.2016\Distance\bin\Debug\Distance.pdb
+D:\Gapo\Test_I\exam.18.12.2016\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.18.12.2016\Distance\obj\Debug\Distance.exe
+D:\Gapo\Test_I\exam.18.12.2016\Distance\obj\Debug\Distance.pdb

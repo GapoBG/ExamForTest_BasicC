@@ -1,0 +1,6 @@
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnFifure\bin\Debug\PointOnFifure.exe.config
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnFifure\bin\Debug\PointOnFifure.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnFifure\bin\Debug\PointOnFifure.pdb
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnFifure\obj\Debug\PointOnFifure.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnFifure\obj\Debug\PointOnFifure.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\PointOnFifure\obj\Debug\PointOnFifure.pdb

@@ -1,0 +1,5 @@
+D:\Gapo\Test_I\Exam.24.IV\_test\bin\Debug\_test.exe.config
+D:\Gapo\Test_I\Exam.24.IV\_test\bin\Debug\_test.exe
+D:\Gapo\Test_I\Exam.24.IV\_test\bin\Debug\_test.pdb
+D:\Gapo\Test_I\Exam.24.IV\_test\obj\Debug\_test.exe
+D:\Gapo\Test_I\Exam.24.IV\_test\obj\Debug\_test.pdb

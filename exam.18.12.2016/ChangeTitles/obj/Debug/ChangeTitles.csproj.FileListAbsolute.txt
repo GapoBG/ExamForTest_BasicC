@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.18.12.2016\ChangeTitles\bin\Debug\ChangeTitles.exe.config
+D:\Gapo\Test_I\exam.18.12.2016\ChangeTitles\bin\Debug\ChangeTitles.exe
+D:\Gapo\Test_I\exam.18.12.2016\ChangeTitles\bin\Debug\ChangeTitles.pdb
+D:\Gapo\Test_I\exam.18.12.2016\ChangeTitles\obj\Debug\ChangeTitles.exe
+D:\Gapo\Test_I\exam.18.12.2016\ChangeTitles\obj\Debug\ChangeTitles.pdb
+D:\Gapo\Test_I\exam.18.12.2016\ChangeTitles\obj\Debug\ChangeTitles.csprojResolveAssemblyReference.cache

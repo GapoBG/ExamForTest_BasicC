@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\21.Feb.2016\SaltAndPepper\bin\Debug\SaltAndPepper.exe.config
+D:\Gapo\Test_I\21.Feb.2016\SaltAndPepper\bin\Debug\SaltAndPepper.exe
+D:\Gapo\Test_I\21.Feb.2016\SaltAndPepper\bin\Debug\SaltAndPepper.pdb
+D:\Gapo\Test_I\21.Feb.2016\SaltAndPepper\obj\Debug\SaltAndPepper.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\21.Feb.2016\SaltAndPepper\obj\Debug\SaltAndPepper.exe
+D:\Gapo\Test_I\21.Feb.2016\SaltAndPepper\obj\Debug\SaltAndPepper.pdb

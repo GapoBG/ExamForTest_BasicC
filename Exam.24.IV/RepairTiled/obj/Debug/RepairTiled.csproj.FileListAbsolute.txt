@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.24.IV\RepairTiled\bin\Debug\RepairTiled.exe.config
+D:\Gapo\Test_I\Exam.24.IV\RepairTiled\bin\Debug\RepairTiled.exe
+D:\Gapo\Test_I\Exam.24.IV\RepairTiled\bin\Debug\RepairTiled.pdb
+D:\Gapo\Test_I\Exam.24.IV\RepairTiled\obj\Debug\RepairTiled.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.24.IV\RepairTiled\obj\Debug\RepairTiled.exe
+D:\Gapo\Test_I\Exam.24.IV\RepairTiled\obj\Debug\RepairTiled.pdb

@@ -1,0 +1,9 @@
+D:\Gapo\Test_I\Exam\TrainingLab\Histograma\bin\Debug\Histograma.exe.config
+D:\Gapo\Test_I\Exam\TrainingLab\Histograma\obj\Debug\Histograma.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam\TrainingLab\Histograma\bin\Debug\Histograma.exe
+D:\Gapo\Test_I\Exam\TrainingLab\Histograma\bin\Debug\Histograma.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\Histograma\obj\Debug\Histograma.exe
+D:\Gapo\Test_I\Exam\TrainingLab\Histograma\obj\Debug\Histograma.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\Histograma\bin\Debug\Histograma.exe.config
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\Histograma\obj\Debug\Histograma.exe
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\Histograma\obj\Debug\Histograma.pdb

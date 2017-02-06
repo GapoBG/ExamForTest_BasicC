@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.26.III\Butterfly\bin\Debug\Butterfly.exe.config
+D:\Gapo\Test_I\Exam.26.III\Butterfly\bin\Debug\Butterfly.exe
+D:\Gapo\Test_I\Exam.26.III\Butterfly\bin\Debug\Butterfly.pdb
+D:\Gapo\Test_I\Exam.26.III\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.26.III\Butterfly\obj\Debug\Butterfly.exe
+D:\Gapo\Test_I\Exam.26.III\Butterfly\obj\Debug\Butterfly.pdb

@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam\TrainingLab\TrainingLab\bin\Debug\TrainingLab.exe.config
+D:\Gapo\Test_I\Exam\TrainingLab\TrainingLab\bin\Debug\TrainingLab.exe
+D:\Gapo\Test_I\Exam\TrainingLab\TrainingLab\bin\Debug\TrainingLab.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\TrainingLab\obj\Debug\TrainingLab.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam\TrainingLab\TrainingLab\obj\Debug\TrainingLab.exe
+D:\Gapo\Test_I\Exam\TrainingLab\TrainingLab\obj\Debug\TrainingLab.pdb

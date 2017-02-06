@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.Jan.2016\RectangleWithStars\bin\Debug\RectangleWithStars.exe.config
+D:\Gapo\Test_I\exam.Jan.2016\RectangleWithStars\bin\Debug\RectangleWithStars.exe
+D:\Gapo\Test_I\exam.Jan.2016\RectangleWithStars\bin\Debug\RectangleWithStars.pdb
+D:\Gapo\Test_I\exam.Jan.2016\RectangleWithStars\obj\Debug\RectangleWithStars.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.Jan.2016\RectangleWithStars\obj\Debug\RectangleWithStars.exe
+D:\Gapo\Test_I\exam.Jan.2016\RectangleWithStars\obj\Debug\RectangleWithStars.pdb

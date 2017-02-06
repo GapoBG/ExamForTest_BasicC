@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.17.VII\BackToThePast\bin\Debug\BackToThePast.exe.config
+D:\Gapo\Test_I\Exam.17.VII\BackToThePast\bin\Debug\BackToThePast.exe
+D:\Gapo\Test_I\Exam.17.VII\BackToThePast\bin\Debug\BackToThePast.pdb
+D:\Gapo\Test_I\Exam.17.VII\BackToThePast\obj\Debug\BackToThePast.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.17.VII\BackToThePast\obj\Debug\BackToThePast.exe
+D:\Gapo\Test_I\Exam.17.VII\BackToThePast\obj\Debug\BackToThePast.pdb

@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.Jan.2016\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe.config
+D:\Gapo\Test_I\exam.Jan.2016\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe
+D:\Gapo\Test_I\exam.Jan.2016\Increasing4Numbers\bin\Debug\Increasing4Numbers.pdb
+D:\Gapo\Test_I\exam.Jan.2016\Increasing4Numbers\obj\Debug\Increasing4Numbers.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.Jan.2016\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
+D:\Gapo\Test_I\exam.Jan.2016\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb

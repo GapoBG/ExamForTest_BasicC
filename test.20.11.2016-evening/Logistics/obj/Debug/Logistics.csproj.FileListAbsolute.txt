@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-evening\Logistics\bin\Debug\Logistics.exe.config
+D:\Gapo\Test_I\test.20.11.2016-evening\Logistics\bin\Debug\Logistics.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\Logistics\bin\Debug\Logistics.pdb
+D:\Gapo\Test_I\test.20.11.2016-evening\Logistics\obj\Debug\Logistics.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-evening\Logistics\obj\Debug\Logistics.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\Logistics\obj\Debug\Logistics.pdb

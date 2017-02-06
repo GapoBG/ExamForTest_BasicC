@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-morning\Fox\bin\Debug\Fox.exe.config
+D:\Gapo\Test_I\test.20.11.2016-morning\Fox\bin\Debug\Fox.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Fox\bin\Debug\Fox.pdb
+D:\Gapo\Test_I\test.20.11.2016-morning\Fox\obj\Debug\Fox.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-morning\Fox\obj\Debug\Fox.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Fox\obj\Debug\Fox.pdb

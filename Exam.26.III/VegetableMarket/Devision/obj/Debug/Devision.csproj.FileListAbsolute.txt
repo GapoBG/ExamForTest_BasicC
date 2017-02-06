@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\Devision\bin\Debug\Devision.exe.config
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\Devision\bin\Debug\Devision.exe
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\Devision\bin\Debug\Devision.pdb
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\Devision\obj\Debug\Devision.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\Devision\obj\Debug\Devision.exe
+D:\Gapo\Test_I\Exam.26.III\VegetableMarket\Devision\obj\Debug\Devision.pdb

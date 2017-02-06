@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.18.12.2016\LetterCombination\bin\Debug\LetterCombination.exe.config
+D:\Gapo\Test_I\exam.18.12.2016\LetterCombination\bin\Debug\LetterCombination.exe
+D:\Gapo\Test_I\exam.18.12.2016\LetterCombination\bin\Debug\LetterCombination.pdb
+D:\Gapo\Test_I\exam.18.12.2016\LetterCombination\obj\Debug\LetterCombination.exe
+D:\Gapo\Test_I\exam.18.12.2016\LetterCombination\obj\Debug\LetterCombination.pdb
+D:\Gapo\Test_I\exam.18.12.2016\LetterCombination\obj\Debug\LetterCombination.csprojResolveAssemblyReference.cache

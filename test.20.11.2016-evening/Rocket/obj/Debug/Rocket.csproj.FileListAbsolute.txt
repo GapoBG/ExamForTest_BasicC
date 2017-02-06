@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-evening\Rocket\bin\Debug\Rocket.exe.config
+D:\Gapo\Test_I\test.20.11.2016-evening\Rocket\bin\Debug\Rocket.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\Rocket\bin\Debug\Rocket.pdb
+D:\Gapo\Test_I\test.20.11.2016-evening\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-evening\Rocket\obj\Debug\Rocket.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\Rocket\obj\Debug\Rocket.pdb

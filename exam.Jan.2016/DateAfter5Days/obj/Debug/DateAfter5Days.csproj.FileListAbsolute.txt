@@ -1,0 +1,6 @@
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\DateAfter5Days\bin\Debug\DateAfter5Days.exe.config
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\DateAfter5Days\bin\Debug\DateAfter5Days.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\DateAfter5Days\bin\Debug\DateAfter5Days.pdb
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\DateAfter5Days\obj\Debug\DateAfter5Days.csprojResolveAssemblyReference.cache
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\DateAfter5Days\obj\Debug\DateAfter5Days.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\DateAfter5Days\obj\Debug\DateAfter5Days.pdb

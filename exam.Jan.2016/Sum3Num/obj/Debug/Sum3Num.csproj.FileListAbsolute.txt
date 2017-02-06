@@ -1,0 +1,5 @@
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Sum3Num\bin\Debug\Sum3Num.exe.config
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Sum3Num\bin\Debug\Sum3Num.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Sum3Num\bin\Debug\Sum3Num.pdb
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Sum3Num\obj\Debug\Sum3Num.exe
+E:\SoftUni\0.Programming Basics\ExamForTest\exam.Jan.2016\Sum3Num\obj\Debug\Sum3Num.pdb

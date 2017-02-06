@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.24.IV\Stop\bin\Debug\Stop.exe.config
+D:\Gapo\Test_I\Exam.24.IV\Stop\bin\Debug\Stop.exe
+D:\Gapo\Test_I\Exam.24.IV\Stop\bin\Debug\Stop.pdb
+D:\Gapo\Test_I\Exam.24.IV\Stop\obj\Debug\Stop.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.24.IV\Stop\obj\Debug\Stop.exe
+D:\Gapo\Test_I\Exam.24.IV\Stop\obj\Debug\Stop.pdb

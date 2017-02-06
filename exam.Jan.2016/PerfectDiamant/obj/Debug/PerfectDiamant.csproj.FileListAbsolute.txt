@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.Jan.2016\PerfectDiamant\bin\Debug\PerfectDiamant.exe.config
+D:\Gapo\Test_I\exam.Jan.2016\PerfectDiamant\bin\Debug\PerfectDiamant.exe
+D:\Gapo\Test_I\exam.Jan.2016\PerfectDiamant\bin\Debug\PerfectDiamant.pdb
+D:\Gapo\Test_I\exam.Jan.2016\PerfectDiamant\obj\Debug\PerfectDiamant.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.Jan.2016\PerfectDiamant\obj\Debug\PerfectDiamant.exe
+D:\Gapo\Test_I\exam.Jan.2016\PerfectDiamant\obj\Debug\PerfectDiamant.pdb

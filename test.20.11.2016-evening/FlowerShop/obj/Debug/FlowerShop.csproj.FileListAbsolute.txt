@@ -1,0 +1,5 @@
+D:\Gapo\Test_I\test.20.11.2016-evening\FlowerShop\bin\Debug\FlowerShop.exe.config
+D:\Gapo\Test_I\test.20.11.2016-evening\FlowerShop\bin\Debug\FlowerShop.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\FlowerShop\bin\Debug\FlowerShop.pdb
+D:\Gapo\Test_I\test.20.11.2016-evening\FlowerShop\obj\Debug\FlowerShop.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\FlowerShop\obj\Debug\FlowerShop.pdb

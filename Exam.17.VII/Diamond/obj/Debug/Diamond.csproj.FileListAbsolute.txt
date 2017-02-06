@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.17.VII\Diamond\bin\Debug\Diamond.exe.config
+D:\Gapo\Test_I\Exam.17.VII\Diamond\bin\Debug\Diamond.exe
+D:\Gapo\Test_I\Exam.17.VII\Diamond\bin\Debug\Diamond.pdb
+D:\Gapo\Test_I\Exam.17.VII\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.17.VII\Diamond\obj\Debug\Diamond.exe
+D:\Gapo\Test_I\Exam.17.VII\Diamond\obj\Debug\Diamond.pdb

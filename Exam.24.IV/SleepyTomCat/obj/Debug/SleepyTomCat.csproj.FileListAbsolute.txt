@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.24.IV\SleepyTomCat\bin\Debug\SleepyTomCat.exe.config
+D:\Gapo\Test_I\Exam.24.IV\SleepyTomCat\bin\Debug\SleepyTomCat.exe
+D:\Gapo\Test_I\Exam.24.IV\SleepyTomCat\bin\Debug\SleepyTomCat.pdb
+D:\Gapo\Test_I\Exam.24.IV\SleepyTomCat\obj\Debug\SleepyTomCat.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.24.IV\SleepyTomCat\obj\Debug\SleepyTomCat.exe
+D:\Gapo\Test_I\Exam.24.IV\SleepyTomCat\obj\Debug\SleepyTomCat.pdb

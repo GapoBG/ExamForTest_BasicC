@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\exam.18.12.2016\Flowers\bin\Debug\Flowers.exe.config
+D:\Gapo\Test_I\exam.18.12.2016\Flowers\bin\Debug\Flowers.exe
+D:\Gapo\Test_I\exam.18.12.2016\Flowers\bin\Debug\Flowers.pdb
+D:\Gapo\Test_I\exam.18.12.2016\Flowers\obj\Debug\Flowers.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\exam.18.12.2016\Flowers\obj\Debug\Flowers.exe
+D:\Gapo\Test_I\exam.18.12.2016\Flowers\obj\Debug\Flowers.pdb

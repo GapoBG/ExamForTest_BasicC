@@ -1,0 +1,12 @@
+D:\Gapo\Test_I\Exam\TrainingLab\LateOrNotForTEST\bin\Debug\LateOrNotForTEST.exe.config
+D:\Gapo\Test_I\Exam\TrainingLab\LateOrNotForTEST\obj\Debug\LateOrNotForTEST.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam\TrainingLab\LateOrNotForTEST\bin\Debug\LateOrNotForTEST.exe
+D:\Gapo\Test_I\Exam\TrainingLab\LateOrNotForTEST\bin\Debug\LateOrNotForTEST.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\LateOrNotForTEST\obj\Debug\LateOrNotForTEST.exe
+D:\Gapo\Test_I\Exam\TrainingLab\LateOrNotForTEST\obj\Debug\LateOrNotForTEST.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\LateOrNotForTEST\bin\Debug\LateOrNotForTEST.exe.config
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\LateOrNotForTEST\obj\Debug\LateOrNotForTEST.exe
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\LateOrNotForTEST\obj\Debug\LateOrNotForTEST.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\LateOrNotForTEST\bin\Debug\LateOrNotForTEST.exe
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\LateOrNotForTEST\bin\Debug\LateOrNotForTEST.pdb
+D:\Gapo\Test_I\Exam.06.III\TrainingLab\LateOrNotForTEST\obj\Debug\LateOrNotForTEST.csprojResolveAssemblyReference.cache

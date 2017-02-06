@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.26.III\test\bin\Debug\test.exe.config
+D:\Gapo\Test_I\Exam.26.III\test\bin\Debug\test.exe
+D:\Gapo\Test_I\Exam.26.III\test\bin\Debug\test.pdb
+D:\Gapo\Test_I\Exam.26.III\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.26.III\test\obj\Debug\test.exe
+D:\Gapo\Test_I\Exam.26.III\test\obj\Debug\test.pdb

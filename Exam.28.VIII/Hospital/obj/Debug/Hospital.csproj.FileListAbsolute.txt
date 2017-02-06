@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.28.VIII\Hospital\bin\Debug\Hospital.exe.config
+D:\Gapo\Test_I\Exam.28.VIII\Hospital\bin\Debug\Hospital.exe
+D:\Gapo\Test_I\Exam.28.VIII\Hospital\bin\Debug\Hospital.pdb
+D:\Gapo\Test_I\Exam.28.VIII\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.28.VIII\Hospital\obj\Debug\Hospital.exe
+D:\Gapo\Test_I\Exam.28.VIII\Hospital\obj\Debug\Hospital.pdb

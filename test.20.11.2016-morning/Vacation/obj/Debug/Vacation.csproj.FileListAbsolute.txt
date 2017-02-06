@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-morning\Vacation\bin\Debug\Vacation.exe.config
+D:\Gapo\Test_I\test.20.11.2016-morning\Vacation\bin\Debug\Vacation.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Vacation\bin\Debug\Vacation.pdb
+D:\Gapo\Test_I\test.20.11.2016-morning\Vacation\obj\Debug\Vacation.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-morning\Vacation\obj\Debug\Vacation.exe
+D:\Gapo\Test_I\test.20.11.2016-morning\Vacation\obj\Debug\Vacation.pdb

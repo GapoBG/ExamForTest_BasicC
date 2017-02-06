@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam.17.VII\Money\bin\Debug\Money.exe.config
+D:\Gapo\Test_I\Exam.17.VII\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam.17.VII\Money\bin\Debug\Money.exe
+D:\Gapo\Test_I\Exam.17.VII\Money\bin\Debug\Money.pdb
+D:\Gapo\Test_I\Exam.17.VII\Money\obj\Debug\Money.exe
+D:\Gapo\Test_I\Exam.17.VII\Money\obj\Debug\Money.pdb

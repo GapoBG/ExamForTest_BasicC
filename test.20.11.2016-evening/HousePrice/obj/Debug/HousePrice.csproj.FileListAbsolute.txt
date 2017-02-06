@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\test.20.11.2016-evening\HousePrice\bin\Debug\HousePrice.exe.config
+D:\Gapo\Test_I\test.20.11.2016-evening\HousePrice\bin\Debug\HousePrice.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\HousePrice\bin\Debug\HousePrice.pdb
+D:\Gapo\Test_I\test.20.11.2016-evening\HousePrice\obj\Debug\HousePrice.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\test.20.11.2016-evening\HousePrice\obj\Debug\HousePrice.exe
+D:\Gapo\Test_I\test.20.11.2016-evening\HousePrice\obj\Debug\HousePrice.pdb

@@ -1,0 +1,6 @@
+D:\Gapo\Test_I\Exam\TrainingLab\DrawFort\bin\Debug\DrawFort.exe.config
+D:\Gapo\Test_I\Exam\TrainingLab\DrawFort\obj\Debug\DrawFort.csprojResolveAssemblyReference.cache
+D:\Gapo\Test_I\Exam\TrainingLab\DrawFort\bin\Debug\DrawFort.exe
+D:\Gapo\Test_I\Exam\TrainingLab\DrawFort\bin\Debug\DrawFort.pdb
+D:\Gapo\Test_I\Exam\TrainingLab\DrawFort\obj\Debug\DrawFort.exe
+D:\Gapo\Test_I\Exam\TrainingLab\DrawFort\obj\Debug\DrawFort.pdb
